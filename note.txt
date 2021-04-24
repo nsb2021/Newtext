@@ -1,0 +1,25 @@
+We just published our local git ripo
+
+Few things happened:
+
+1. It automatically created
+
+2. Made the connection with your local git repo
+
+3. Added all yyour commits to remote repo
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2. commited to change it to local repo
+3. we want the change to be reflected in remote repository so we PUSHED local commits to remote depository to origin button.
+
+4. Observe it has been added in your repository under GitHub.com
+
+5. How to save after adding some text in sublime
+
+Ctrl + S
+
+6. We do not have to push one commit at a time
+You can push multiple commits in one shot.
+There is no limit
